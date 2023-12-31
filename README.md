@@ -1,5 +1,7 @@
 <p align="center"><img width=100% src="https://github.com/lenigovi/ParallelRobot/blob/main/Media/Bord.png"></p>
 
+<p align="center"><img width=100% src="https://github.com/lenigovi/ParallelRobot/blob/main/Media/bord2.png"></p>
+
 **By [Elena Valerija Herzegovina](https://github.com/lenigovi)**
 
 
