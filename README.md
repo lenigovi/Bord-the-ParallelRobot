@@ -1,5 +1,7 @@
 <p align="center"><img width=100% src="https://github.com/lenigovi/ParallelRobot/blob/main/Media/bord2.png"></p>
 
+<a href="https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/Report.ipynb" target="_blank" title="Report"><img width="196px" alt="gowebly logo" src="https://github.com/lenigovi/ParallelRobot/blob/main/Media/bord2.png"></a>
+
 **By [Elena Valerija Herzegovina](https://github.com/lenigovi)**
 
 
