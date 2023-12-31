@@ -26,11 +26,19 @@ Citation:
 ```
 
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-body {font-family: 'Montserrat', sans-serif;}
-.container {
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+    }
+    .container {
       display: flex;
       justify-content: center;
       align-items: center;
@@ -53,6 +61,7 @@ body {font-family: 'Montserrat', sans-serif;}
       border-bottom: 15px solid #333;
       margin: auto;
     }
+
     .arrow-down {
       border-top: 15px solid #333;
       margin: auto;
@@ -88,5 +97,3 @@ body {font-family: 'Montserrat', sans-serif;}
   </div>
 </body>
 </html>
-
-
