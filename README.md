@@ -16,6 +16,11 @@ Citation
 
 
 
+![alt text][robot]
+
+[robot]: https://github.com/lenigovi/ParallelRobot/blob/main/Robot.png "Robot"
+
+
 ![alt text][robotcad]
 
 [robotcad]: https://github.com/lenigovi/ParallelRobot/blob/main/Robotcad.png "Cad Model"
@@ -23,9 +28,7 @@ Citation
 
 
 
-![alt text][robot]
 
-[robot]: https://github.com/lenigovi/ParallelRobot/blob/main/Robot.png "Robot"
 
 
 
