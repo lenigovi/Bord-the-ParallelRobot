@@ -1,3 +1,5 @@
+<p align="center"><img width=100% src="https://github.com/lenigovi/parallelrobot/media/Bord.png"></p>
+
 **By [Elena Valerija Herzegovina](https://github.com/lenigovi)**
 
 This repository contains the implementation of the report:
