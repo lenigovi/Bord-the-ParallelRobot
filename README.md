@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="https://github.com/lenigovi/ParallelRobot/blob/main/Media/bord2.png"></p>
+<!---<p align="center"><img width=100% src="https://github.com/lenigovi/ParallelRobot/blob/main/Media/bord2.png"></p>--->
 
 <a href="https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/Report.ipynb" target="_blank" title="Report"><img width=100% alt="gowebly logo" src="https://github.com/lenigovi/ParallelRobot/blob/main/Media/bord2.png"></a>
 
