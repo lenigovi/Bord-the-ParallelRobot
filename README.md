@@ -29,18 +29,6 @@ Citation
 
 
 
-<table align="center" border="0">
-<tr><td colspan="4">
-
-#### <a name="battery"></a>Battery Backups - [UPS Blog write-up](https://www.vCloudInfo.com/2017/06/home-protection-from-power-outages-sort.html)<a href="https://github.com/CCOSTAN/Home-AssistantConfig#logo"><img align="right" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/up_arrow.png" width="22" ></a>
-</td></tr>
-<tr><td align="center">
-
-[3 Prong UPS](https://amzn.to/2HJerU8)
-</td><td align="center">
-
-[2 Prong UPS](https://amzn.to/2CijVG3)
-</td><td align="center" colspan="2">
 
 
 
