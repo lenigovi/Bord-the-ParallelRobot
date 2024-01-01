@@ -11,7 +11,7 @@ This repository contains the implementation of the report:
 Citation
 @inproceedings{Herzegovina2023,
  author    = {Herzegovina, Elena Valerija},
- title     = { },
+ title     = {Singularity Conditions in Kinematically Redundant Hybrid Parallel Robots},
  booktitle = { },
  year      = {2023}}
 ```
