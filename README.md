@@ -24,7 +24,7 @@ Citation
 
 
 
-![Prototype Video](https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/Prototypevideo.mp4)
+![Prototype Video](https://youtu.be/RIHfT3uBCbM)
 
 
 
