@@ -23,9 +23,9 @@ Citation
 [robot]: https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/Robot.png "Robot"
 
 
-<video controls height="220" width="390">
-	<source src="Prototypevideo.mp4" type="video/mp4">
-</video>
+
+![Prototype Video](https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/Prototypevideo.mp4)
+
 
 
 ![alt text][robotcad]
