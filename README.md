@@ -4,6 +4,7 @@
 
 **By [Elena Valerija Herzegovina](https://github.com/lenigovi)**
 
+[The prototype video](https://youtu.be/RIHfT3uBCbM)
 
 This repository contains the implementation of the report:
 
@@ -21,12 +22,6 @@ Citation
 ![alt text][robot]
 
 [robot]: https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/Robot.png "Robot"
-
-
-[![Prototype Video](https://img.youtube.com/vi/RIHfT3uBCbM/0.jpg)](https://www.youtube.com/watch?v=RIHfT3uBCbM)
-
-
-
 
 ![alt text][robotcad]
 
