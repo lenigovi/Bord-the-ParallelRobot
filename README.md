@@ -1,6 +1,6 @@
 <!---<p align="center"><img width=100% src="https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/bord2.png"></p>--->
 
-<a href="https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/4 Paper.ipynb" target="_blank" title="Paper"><img width=100% alt="project" src="https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/bord2.png"></a>
+<a href="https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/2 Paper.ipynb" target="_blank" title="Paper"><img width=100% alt="project" src="https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/bord2.png"></a>
 
 **By [Elena Valerija Herzegovina](https://github.com/lenigovi)**
 
