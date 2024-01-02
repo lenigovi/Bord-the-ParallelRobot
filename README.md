@@ -2,9 +2,7 @@
 
 <a href="https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/2 Paper.ipynb" target="_blank" title="Paper"><img width=100% alt="project" src="https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/bord2.png"></a>
 
-**By [Elena Valerija Herzegovina](https://github.com/lenigovi)**
-
-[The prototype video](https://youtu.be/RIHfT3uBCbM)
+**By [Elena Valerija Herzegovina](https://github.com/lenigovi)** | [Prototype Video](https://youtu.be/RIHfT3uBCbM) | [Paper](https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/2%20Paper.ipynb) | 
 
 This repository contains the implementation of the report:
 
