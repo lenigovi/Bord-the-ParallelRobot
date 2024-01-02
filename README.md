@@ -23,6 +23,9 @@ Citation
 [robot]: https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/Robot.png "Robot"
 
 
+[![Watch the video](https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/Robot.png)](https://github.com/lenigovi/Bord-the-ParallelRobot/blob/main/Prototypevideo.mp4)
+
+
 ![alt text][robotcad]
 
 [robotcad]: https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/Robotcad.png "Cad Model"
