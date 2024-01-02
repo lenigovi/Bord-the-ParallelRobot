@@ -23,8 +23,8 @@ Citation
 [robot]: https://github.com/lenigovi/ParallelRobot/blob/main/Docs/Media/Robot.png "Robot"
 
 
+[![Prototype Video](https://img.youtube.com/vi/RIHfT3uBCbM/0.jpg)](https://www.youtube.com/watch?v=RIHfT3uBCbM)
 
-![Prototype Video](https://youtu.be/RIHfT3uBCbM)
 
 
 
